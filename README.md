@@ -23,6 +23,9 @@ bir akıllı saat prototipi.
 
 ![WhatsApp Image 2026-02-02 at 13 01 06 (1)](https://github.com/user-attachments/assets/412ac6aa-18f5-4d46-9c74-d7954e9bbc18)
 
+<img width="1379" height="649" alt="image" src="https://github.com/user-attachments/assets/55d2e0ee-6f75-4c83-92aa-026370b4316a" />
+
+
 ![WhatsApp Image 2026-02-02 at 13 04 41](https://github.com/user-attachments/assets/cb81a3c7-f497-4794-8f2f-9791306000a0)
 
 -iPhone için kestirme uygulaması dosyası:
